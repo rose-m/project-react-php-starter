@@ -1,0 +1,18 @@
+{
+  "name": "coderose.io/template",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "CoderoseIo\\Template\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Michael Rose",
+      "email": "michael_rose@gmx.de"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "^5.5"
+  }
+}
