@@ -3,6 +3,7 @@ module.exports = {
   rules: {
     'at-rule-no-unknown': null,
     'selector-class-pattern': '[a-z0-9A-Z_]+',
+    'string-quotes': 'single',
   },
   overrides: [
     {
